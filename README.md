@@ -29,7 +29,7 @@ This exercise is to implement the basics of using git tags.
 
 ### What I learned
 
-- 
+- The difference between lightweight and annotated tags and what they are used for, as well as Sematic Versioning for software releases.
 
 ### Continued development
 
