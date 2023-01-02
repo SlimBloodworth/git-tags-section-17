@@ -29,7 +29,7 @@ This exercise is to implement the basics of using git tags.
 
 ### What I learned
 
-- The difference between lightweight and annotated tags and what they are used for, as well as Sematic Versioning for software releases.
+- The difference between lightweight and annotated tags and what they are used for, as well as Sematic Versioning for software releases. I learned how to view and search tags, how to compare tags using git diff,how to create and delete tags, how to tag previous commits, how to replace tags with force, and how to push tags.
 
 ### Continued development
 
